@@ -1,5 +1,4 @@
 const WORDS = [
-	"amaze",
 	"token",
 	"entry",
 	"emoji",
