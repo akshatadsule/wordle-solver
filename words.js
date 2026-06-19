@@ -1,5 +1,4 @@
 const WORDS = [
-	"entry",
 	"emoji",
 	"drake",
 	"alibi",
@@ -34,5 +33,13 @@ const WORDS = [
 	"diver",
 	"shill",
 	"lorry",
-	"ovine",
+	"orbit",
+	"putty",
+	"aloha",
+	"grape",
+	"poser",
+	"sonar",
+	"valve",
+	"flume",
+	"dryly",
 ];
