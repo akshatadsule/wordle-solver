@@ -1,5 +1,4 @@
 const WORDS = [
-	"curry",
 	"queer",
 	"unity",
 	"acute",
@@ -37,5 +36,12 @@ const WORDS = [
 	"sonar",
 	"valve",
 	"flume",
-	"dryly",
+	"purse",
+	"slush",
+	"penal",
+	"reply",
+	"motif",
+	"posit",
+	"gripe",
+	"argot",
 ];
