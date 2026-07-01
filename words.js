@@ -1,5 +1,4 @@
 const WORDS = [
-	"puppy",
 	"demur",
 	"maven",
 	"baton",
@@ -37,5 +36,12 @@ const WORDS = [
 	"motif",
 	"posit",
 	"gripe",
-	"argot",
+	"feign",
+	"privy",
+	"clunk",
+	"snipe",
+	"fence",
+	"oaken",
+	"crash",
+	"swain",
 ];
