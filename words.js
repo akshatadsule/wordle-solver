@@ -1,5 +1,4 @@
 const WORDS = [
-	"steak",
 	"pshaw",
 	"butte",
 	"legal",
