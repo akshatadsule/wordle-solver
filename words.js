@@ -1,5 +1,4 @@
 const WORDS = [
-	"diver",
 	"shill",
 	"lorry",
 	"orbit",
