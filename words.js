@@ -1,5 +1,4 @@
 const WORDS = [
-	"lorry",
 	"orbit",
 	"putty",
 	"aloha",
@@ -31,6 +30,14 @@ const WORDS = [
 	"murky",
 	"trace",
 	"prawn",
-	"frump",
-	"plonk",
+	"olden",
+	"runny",
+	"click",
+	"capon",
+	"uncut",
+	"tween",
+	"blood",
+	"intel",
+	"mound",
+	"remix",
 ];
