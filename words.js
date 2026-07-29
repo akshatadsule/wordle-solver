@@ -1,5 +1,4 @@
 const WORDS = [
-	"sonar",
 	"valve",
 	"flume",
 	"purse",
@@ -35,4 +34,12 @@ const WORDS = [
 	"intel",
 	"mound",
 	"remix",
+	"ruler",
+	"joist",
+	"wager",
+	"soupy",
+	"beige",
+	"blind",
+	"liven",
+	"burst",
 ];
