@@ -1,5 +1,4 @@
 const WORDS = [
-	"penal",
 	"reply",
 	"motif",
 	"posit",
