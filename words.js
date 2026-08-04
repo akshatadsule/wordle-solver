@@ -1,5 +1,4 @@
 const WORDS = [
-	"reply",
 	"motif",
 	"posit",
 	"gripe",
