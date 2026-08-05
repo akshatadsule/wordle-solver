@@ -1,5 +1,4 @@
 const WORDS = [
-	"motif",
 	"posit",
 	"gripe",
 	"feign",
