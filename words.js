@@ -1,5 +1,4 @@
 const WORDS = [
-	"strip",
 	"grill",
 	"murky",
 	"trace",
