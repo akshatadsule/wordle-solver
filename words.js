@@ -1,5 +1,4 @@
 const WORDS = [
-	"grill",
 	"murky",
 	"trace",
 	"prawn",
@@ -37,4 +36,13 @@ const WORDS = [
 	"forth",
 	"messy",
 	"copse",
+	"elegy",
+	"sloop",
+	"trunk",
+	"scuba",
+	"river",
+	"ritzy",
+	"hiker",
+	"usury",
+	"babka",
 ];
