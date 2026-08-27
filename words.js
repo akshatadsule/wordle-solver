@@ -1,5 +1,4 @@
 const WORDS = [
-	"capon",
 	"uncut",
 	"tween",
 	"blood",
@@ -36,7 +35,14 @@ const WORDS = [
 	"scuba",
 	"river",
 	"ritzy",
-	"hiker",
 	"usury",
-	"babka",
+	"peeve",
+	"shack",
+	"mocha",
+	"jaded",
+	"vaunt",
+	"dimly",
+	"prove",
+	"peppy",
+	"apace",
 ];
