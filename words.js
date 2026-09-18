@@ -1,5 +1,4 @@
 const WORDS = [
-	"theta",
 	"snowy",
 	"waken",
 	"shone",
@@ -35,5 +34,12 @@ const WORDS = [
 	"wrest",
 	"penny",
 	"reset",
-	"dowse",
+	"trill",
+	"holey",
+	"dress",
+	"geeky",
+	"bingo",
+	"grist",
+	"motor",
+	"prate",
 ];
