@@ -1,5 +1,4 @@
 const WORDS = [
-	"messy",
 	"copse",
 	"elegy",
 	"sloop",
@@ -35,5 +34,13 @@ const WORDS = [
 	"bingo",
 	"grist",
 	"motor",
+	"slide",
+	"yahoo",
+	"viper",
+	"scoot",
+	"pouch",
+	"nutty",
+	"parch",
+	"dreck",
 	"prate",
 ];
