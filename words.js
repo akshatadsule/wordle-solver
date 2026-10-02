@@ -1,5 +1,4 @@
 const WORDS = [
-	"ritzy",
 	"usury",
 	"peeve",
 	"shack",
@@ -37,4 +36,13 @@ const WORDS = [
 	"parch",
 	"dreck",
 	"prate",
+	"first",
+	"loamy",
+	"truce",
+	"bless",
+	"karat",
+	"moxie",
+	"randy",
+	"snark",
+	"drawl",
 ];
