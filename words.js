@@ -1,5 +1,4 @@
 const WORDS = [
-	"prove",
 	"strew",
 	"major",
 	"bumpy",
@@ -40,4 +39,12 @@ const WORDS = [
 	"randy",
 	"snark",
 	"drawl",
+	"roast",
+	"blurt",
+	"clout",
+	"arose",
+	"stent",
+	"upend",
+	"filth",
+	"sneer",
 ];
