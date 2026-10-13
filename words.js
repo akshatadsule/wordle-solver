@@ -1,5 +1,4 @@
 const WORDS = [
-	"yodel",
 	"wider",
 	"psych",
 	"dunce",
