@@ -1,5 +1,4 @@
 const WORDS = [
-	"grist",
 	"motor",
 	"slide",
 	"yahoo",
@@ -42,4 +41,12 @@ const WORDS = [
 	"diode",
 	"smoky",
 	"quiet",
+	"sappy",
+	"zilch",
+	"agave",
+	"remap",
+	"vista",
+	"afire",
+	"layup",
+	"vroom",
 ];
