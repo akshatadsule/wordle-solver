@@ -1,5 +1,4 @@
 const WORDS = [
-	"motor",
 	"slide",
 	"yahoo",
 	"viper",
