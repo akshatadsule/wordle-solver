@@ -1,5 +1,4 @@
 const WORDS = [
-	"pouch",
 	"nutty",
 	"parch",
 	"dreck",
