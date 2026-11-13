@@ -1,5 +1,4 @@
 const WORDS = [
-	"karat",
 	"moxie",
 	"randy",
 	"snark",
@@ -43,4 +42,12 @@ const WORDS = [
 	"hedge",
 	"abode",
 	"swift",
+	"react",
+	"guilt",
+	"sleet",
+	"imply",
+	"timid",
+	"shiny",
+	"lyric",
+	"corps",
 ];
