@@ -1,5 +1,4 @@
 const WORDS = [
-	"sneer",
 	"spicy",
 	"tense",
 	"sheaf",
@@ -46,4 +45,11 @@ const WORDS = [
 	"splay",
 	"shrub",
 	"peppy",
+	"opium",
+	"cubby",
+	"slack",
+	"risky",
+	"aspen",
+	"kitty",
+	"rosin",
 ];
