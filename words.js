@@ -1,5 +1,4 @@
 const WORDS = [
-	"tense",
 	"sheaf",
 	"woozy",
 	"peony",
